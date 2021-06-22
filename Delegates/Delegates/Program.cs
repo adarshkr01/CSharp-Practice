@@ -26,8 +26,8 @@ namespace Delegates
             Filters filters2 = new Filters();
 
             Action<Photo> filterList2 = filters.ApplyBrightness;
-            filterList2 += ApplyShade; // ApplyShade's signature is similar to the ApplyFilters delegate
-            filterList2 += filters.ApplyContrast;
+            filterList2 += filters.ApplyContrast; // ApplyShade's signature is similar to the ApplyFilters delegate
+            filterList2 += ApplyShade;
 
             photoProcessor2.Process(@"C:\img.png", filterList2);
         }

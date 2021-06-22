@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace LambdaExpression
 {
@@ -11,7 +12,7 @@ namespace LambdaExpression
             Console.WriteLine(Square(num));
 
             Func<int, int> sq = Square;
-            // sq is Delegate (run this to see the result)
+            // sq is Delegate (run sq to see the result)
             // First int is the parameter type, second is the return type.
             // Func<int, int, int> means first two parameter is parameter, and third is return type
 
@@ -41,11 +42,36 @@ namespace LambdaExpression
             // Multiple paramater
             Console.WriteLine(largest(4, 5));
 
+
+
+
+            // using predicate method to return books whose price are less than 10
+            List<Book> bookLibrary = new BookLibrary().GetBooks();
+
+            List<Book> cheapBooks = bookLibrary.FindAll(IsCheaperThan10);
+
+            foreach(Book book in cheapBooks)
+            {
+                Console.WriteLine(book.Title);
+            }
+
+            // same as above using Lambda expression
+            List<Book> cheapBooks2 = bookLibrary.FindAll(book => book.Price < 10);
+
+            foreach (Book book in cheapBooks2)
+            {
+                Console.WriteLine(book.Title);
+            }
         }
 
         public static int Square(int num)
         {
             return num * num;
+        }
+
+        static bool IsCheaperThan10(Book book)
+        { // Predicate method
+            return book.Price < 10;
         }
     }
 }
