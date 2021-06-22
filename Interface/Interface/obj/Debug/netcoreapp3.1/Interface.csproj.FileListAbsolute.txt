@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Desktop\Practice\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.exe
+C:\Users\ADMIN\Desktop\Practice\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.deps.json
+C:\Users\ADMIN\Desktop\Practice\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Practice\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Practice\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.dll
+C:\Users\ADMIN\Desktop\Practice\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.pdb
+C:\Users\ADMIN\Desktop\Practice\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Practice\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Practice\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Practice\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Practice\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.dll
+C:\Users\ADMIN\Desktop\Practice\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.pdb
+C:\Users\ADMIN\Desktop\Practice\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.genruntimeconfig.cache
