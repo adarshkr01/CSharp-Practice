@@ -9,11 +9,13 @@ namespace Events
         // 2. Define an event based on the delegate
         // 3. Raise/Publish the event
 
-        // 1.
-        public delegate void VideoEncodedEventHandler(object source, EventArgs args);
+        //// 1.
+        //public delegate void VideoEncodedEventHandler(object source, VideoEventArgs args);
 
-        // 2.
-        public event VideoEncodedEventHandler VideoEncoded;
+        //// 2.
+        //public event VideoEncodedEventHandler VideoEncoded;
+
+        public event EventHandler<VideoEventArgs> VideoEncoded; // equivalent to 1 and 2
 
 
         public void Encode(Video video)
@@ -32,7 +34,13 @@ namespace Events
                 // VideoEncoded(this, EventArgs.Empty);
                 // Event with empty argument
 
+                VideoEncoded(this, new VideoEventArgs() { Video = video });
             }    
         }
+    }
+
+    public class VideoEventArgs : EventArgs
+    {
+        public Video Video { get; set; }
     }
 }
