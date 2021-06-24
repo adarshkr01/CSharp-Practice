@@ -28,6 +28,18 @@ namespace LinqPractice
             }
 
             var cheapBooksTitle = cheapBooks.Select(b => b.Title);
+
+
+            // ********************
+
+            Book book1 = books.Single(b => b.Title == "Hamlet"); 
+            // returns an object. Gives exception if no match
+            Console.WriteLine(book1.Title);
+
+            Book book2 = books.SingleOrDefault(b => b.Title == "Origin");
+            Console.WriteLine(book2 == null); // True because "Origin" is not in the list
+
+            
         }
     }
 }
