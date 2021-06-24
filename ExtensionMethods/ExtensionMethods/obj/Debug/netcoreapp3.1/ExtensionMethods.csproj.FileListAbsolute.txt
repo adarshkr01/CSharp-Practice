@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Desktop\Practice\Linq\Linq\bin\Debug\netcoreapp3.1\ExtensionMethods.exe
+C:\Users\ADMIN\Desktop\Practice\Linq\Linq\bin\Debug\netcoreapp3.1\ExtensionMethods.deps.json
+C:\Users\ADMIN\Desktop\Practice\Linq\Linq\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Practice\Linq\Linq\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Practice\Linq\Linq\bin\Debug\netcoreapp3.1\ExtensionMethods.dll
+C:\Users\ADMIN\Desktop\Practice\Linq\Linq\bin\Debug\netcoreapp3.1\ExtensionMethods.pdb
+C:\Users\ADMIN\Desktop\Practice\Linq\Linq\obj\Debug\netcoreapp3.1\ExtensionMethods.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Practice\Linq\Linq\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Practice\Linq\Linq\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Practice\Linq\Linq\obj\Debug\netcoreapp3.1\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Practice\Linq\Linq\obj\Debug\netcoreapp3.1\ExtensionMethods.dll
+C:\Users\ADMIN\Desktop\Practice\Linq\Linq\obj\Debug\netcoreapp3.1\ExtensionMethods.pdb
+C:\Users\ADMIN\Desktop\Practice\Linq\Linq\obj\Debug\netcoreapp3.1\ExtensionMethods.genruntimeconfig.cache
