@@ -38,8 +38,6 @@ namespace LinqPractice
 
             Book book2 = books.SingleOrDefault(b => b.Title == "Origin");
             Console.WriteLine(book2 == null); // True because "Origin" is not in the list
-
-            
         }
     }
 }
