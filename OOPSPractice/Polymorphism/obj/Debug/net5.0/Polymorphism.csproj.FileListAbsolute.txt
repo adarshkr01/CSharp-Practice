@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\Practice\OOPSPractice\Polymorphism\bin\Debug\net5.0\Polymorphism.exe
+C:\Users\ADMIN\Desktop\Practice\OOPSPractice\Polymorphism\bin\Debug\net5.0\Polymorphism.deps.json
+C:\Users\ADMIN\Desktop\Practice\OOPSPractice\Polymorphism\bin\Debug\net5.0\Polymorphism.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Practice\OOPSPractice\Polymorphism\bin\Debug\net5.0\Polymorphism.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Practice\OOPSPractice\Polymorphism\bin\Debug\net5.0\Polymorphism.dll
+C:\Users\ADMIN\Desktop\Practice\OOPSPractice\Polymorphism\bin\Debug\net5.0\ref\Polymorphism.dll
+C:\Users\ADMIN\Desktop\Practice\OOPSPractice\Polymorphism\bin\Debug\net5.0\Polymorphism.pdb
+C:\Users\ADMIN\Desktop\Practice\OOPSPractice\Polymorphism\obj\Debug\net5.0\Polymorphism.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Practice\OOPSPractice\Polymorphism\obj\Debug\net5.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Practice\OOPSPractice\Polymorphism\obj\Debug\net5.0\Polymorphism.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Practice\OOPSPractice\Polymorphism\obj\Debug\net5.0\Polymorphism.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Practice\OOPSPractice\Polymorphism\obj\Debug\net5.0\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Practice\OOPSPractice\Polymorphism\obj\Debug\net5.0\Polymorphism.dll
+C:\Users\ADMIN\Desktop\Practice\OOPSPractice\Polymorphism\obj\Debug\net5.0\ref\Polymorphism.dll
+C:\Users\ADMIN\Desktop\Practice\OOPSPractice\Polymorphism\obj\Debug\net5.0\Polymorphism.pdb
+C:\Users\ADMIN\Desktop\Practice\OOPSPractice\Polymorphism\obj\Debug\net5.0\Polymorphism.genruntimeconfig.cache

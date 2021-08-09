@@ -1,0 +1,4 @@
+C:\Users\ADMIN\Desktop\Practice\InheritancePractice\InheritancePractice\obj\Debug\netcoreapp3.1\InheritancePractice.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Practice\InheritancePractice\InheritancePractice\obj\Debug\netcoreapp3.1\InheritancePractice.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Practice\InheritancePractice\InheritancePractice\obj\Debug\netcoreapp3.1\InheritancePractice.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Practice\InheritancePractice\InheritancePractice\obj\Debug\netcoreapp3.1\InheritancePractice.csproj.CoreCompileInputs.cache

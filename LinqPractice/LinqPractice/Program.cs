@@ -8,7 +8,7 @@ namespace LinqPractice
     {
         static void Main(string[] args)
         {
-            IEnumerable<Book> books = new BookRepository().GetBooks();
+            List<Book> books = new BookRepository().GetBooks();
 
             //// Linq Query Operators
             //var cheaperBooks =

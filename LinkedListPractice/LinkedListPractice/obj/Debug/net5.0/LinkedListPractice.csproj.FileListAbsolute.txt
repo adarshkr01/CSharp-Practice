@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\Practice\LinkedListPractice\LinkedListPractice\bin\Debug\net5.0\LinkedListPractice.exe
+C:\Users\ADMIN\Desktop\Practice\LinkedListPractice\LinkedListPractice\bin\Debug\net5.0\LinkedListPractice.deps.json
+C:\Users\ADMIN\Desktop\Practice\LinkedListPractice\LinkedListPractice\bin\Debug\net5.0\LinkedListPractice.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Practice\LinkedListPractice\LinkedListPractice\bin\Debug\net5.0\LinkedListPractice.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Practice\LinkedListPractice\LinkedListPractice\bin\Debug\net5.0\LinkedListPractice.dll
+C:\Users\ADMIN\Desktop\Practice\LinkedListPractice\LinkedListPractice\bin\Debug\net5.0\ref\LinkedListPractice.dll
+C:\Users\ADMIN\Desktop\Practice\LinkedListPractice\LinkedListPractice\bin\Debug\net5.0\LinkedListPractice.pdb
+C:\Users\ADMIN\Desktop\Practice\LinkedListPractice\LinkedListPractice\obj\Debug\net5.0\LinkedListPractice.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Practice\LinkedListPractice\LinkedListPractice\obj\Debug\net5.0\LinkedListPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Practice\LinkedListPractice\LinkedListPractice\obj\Debug\net5.0\LinkedListPractice.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Practice\LinkedListPractice\LinkedListPractice\obj\Debug\net5.0\LinkedListPractice.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Practice\LinkedListPractice\LinkedListPractice\obj\Debug\net5.0\LinkedListPractice.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Practice\LinkedListPractice\LinkedListPractice\obj\Debug\net5.0\LinkedListPractice.dll
+C:\Users\ADMIN\Desktop\Practice\LinkedListPractice\LinkedListPractice\obj\Debug\net5.0\ref\LinkedListPractice.dll
+C:\Users\ADMIN\Desktop\Practice\LinkedListPractice\LinkedListPractice\obj\Debug\net5.0\LinkedListPractice.pdb
+C:\Users\ADMIN\Desktop\Practice\LinkedListPractice\LinkedListPractice\obj\Debug\net5.0\LinkedListPractice.genruntimeconfig.cache

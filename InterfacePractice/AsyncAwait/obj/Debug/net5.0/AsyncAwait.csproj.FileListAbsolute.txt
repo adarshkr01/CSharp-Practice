@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\AsyncAwait\bin\Debug\net5.0\AsyncAwait.exe
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\AsyncAwait\bin\Debug\net5.0\AsyncAwait.deps.json
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\AsyncAwait\bin\Debug\net5.0\AsyncAwait.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\AsyncAwait\bin\Debug\net5.0\AsyncAwait.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\AsyncAwait\bin\Debug\net5.0\AsyncAwait.dll
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\AsyncAwait\bin\Debug\net5.0\ref\AsyncAwait.dll
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\AsyncAwait\bin\Debug\net5.0\AsyncAwait.pdb
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\AsyncAwait\obj\Debug\net5.0\AsyncAwait.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\AsyncAwait\obj\Debug\net5.0\AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\AsyncAwait\obj\Debug\net5.0\AsyncAwait.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\AsyncAwait\obj\Debug\net5.0\AsyncAwait.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\AsyncAwait\obj\Debug\net5.0\AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\AsyncAwait\obj\Debug\net5.0\AsyncAwait.dll
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\AsyncAwait\obj\Debug\net5.0\ref\AsyncAwait.dll
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\AsyncAwait\obj\Debug\net5.0\AsyncAwait.pdb
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\AsyncAwait\obj\Debug\net5.0\AsyncAwait.genruntimeconfig.cache

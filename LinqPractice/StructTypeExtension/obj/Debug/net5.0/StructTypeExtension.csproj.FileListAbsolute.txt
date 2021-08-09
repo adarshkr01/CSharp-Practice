@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\Practice\LinqPractice\StructTypeExtension\bin\Debug\net5.0\StructTypeExtension.exe
+C:\Users\ADMIN\Desktop\Practice\LinqPractice\StructTypeExtension\bin\Debug\net5.0\StructTypeExtension.deps.json
+C:\Users\ADMIN\Desktop\Practice\LinqPractice\StructTypeExtension\bin\Debug\net5.0\StructTypeExtension.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Practice\LinqPractice\StructTypeExtension\bin\Debug\net5.0\StructTypeExtension.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Practice\LinqPractice\StructTypeExtension\bin\Debug\net5.0\StructTypeExtension.dll
+C:\Users\ADMIN\Desktop\Practice\LinqPractice\StructTypeExtension\bin\Debug\net5.0\ref\StructTypeExtension.dll
+C:\Users\ADMIN\Desktop\Practice\LinqPractice\StructTypeExtension\bin\Debug\net5.0\StructTypeExtension.pdb
+C:\Users\ADMIN\Desktop\Practice\LinqPractice\StructTypeExtension\obj\Debug\net5.0\StructTypeExtension.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Practice\LinqPractice\StructTypeExtension\obj\Debug\net5.0\StructTypeExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Practice\LinqPractice\StructTypeExtension\obj\Debug\net5.0\StructTypeExtension.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Practice\LinqPractice\StructTypeExtension\obj\Debug\net5.0\StructTypeExtension.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Practice\LinqPractice\StructTypeExtension\obj\Debug\net5.0\StructTypeExtension.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Practice\LinqPractice\StructTypeExtension\obj\Debug\net5.0\StructTypeExtension.dll
+C:\Users\ADMIN\Desktop\Practice\LinqPractice\StructTypeExtension\obj\Debug\net5.0\ref\StructTypeExtension.dll
+C:\Users\ADMIN\Desktop\Practice\LinqPractice\StructTypeExtension\obj\Debug\net5.0\StructTypeExtension.pdb
+C:\Users\ADMIN\Desktop\Practice\LinqPractice\StructTypeExtension\obj\Debug\net5.0\StructTypeExtension.genruntimeconfig.cache

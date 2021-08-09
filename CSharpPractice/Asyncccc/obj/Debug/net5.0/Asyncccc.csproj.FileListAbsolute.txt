@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Asyncccc\bin\Debug\net5.0\Asyncccc.exe
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Asyncccc\bin\Debug\net5.0\Asyncccc.deps.json
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Asyncccc\bin\Debug\net5.0\Asyncccc.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Asyncccc\bin\Debug\net5.0\Asyncccc.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Asyncccc\bin\Debug\net5.0\Asyncccc.dll
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Asyncccc\bin\Debug\net5.0\ref\Asyncccc.dll
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Asyncccc\bin\Debug\net5.0\Asyncccc.pdb
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Asyncccc\obj\Debug\net5.0\Asyncccc.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Asyncccc\obj\Debug\net5.0\Asyncccc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Asyncccc\obj\Debug\net5.0\Asyncccc.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Asyncccc\obj\Debug\net5.0\Asyncccc.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Asyncccc\obj\Debug\net5.0\Asyncccc.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Asyncccc\obj\Debug\net5.0\Asyncccc.dll
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Asyncccc\obj\Debug\net5.0\ref\Asyncccc.dll
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Asyncccc\obj\Debug\net5.0\Asyncccc.pdb
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Asyncccc\obj\Debug\net5.0\Asyncccc.genruntimeconfig.cache

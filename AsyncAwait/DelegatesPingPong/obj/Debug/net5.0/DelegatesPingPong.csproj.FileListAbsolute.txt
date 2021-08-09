@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesPingPong\bin\Debug\net5.0\DelegatesPingPong.exe
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesPingPong\bin\Debug\net5.0\DelegatesPingPong.deps.json
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesPingPong\bin\Debug\net5.0\DelegatesPingPong.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesPingPong\bin\Debug\net5.0\DelegatesPingPong.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesPingPong\bin\Debug\net5.0\DelegatesPingPong.dll
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesPingPong\bin\Debug\net5.0\ref\DelegatesPingPong.dll
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesPingPong\bin\Debug\net5.0\DelegatesPingPong.pdb
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesPingPong\obj\Debug\net5.0\DelegatesPingPong.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesPingPong\obj\Debug\net5.0\DelegatesPingPong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesPingPong\obj\Debug\net5.0\DelegatesPingPong.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesPingPong\obj\Debug\net5.0\DelegatesPingPong.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesPingPong\obj\Debug\net5.0\DelegatesPingPong.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesPingPong\obj\Debug\net5.0\DelegatesPingPong.dll
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesPingPong\obj\Debug\net5.0\ref\DelegatesPingPong.dll
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesPingPong\obj\Debug\net5.0\DelegatesPingPong.pdb
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesPingPong\obj\Debug\net5.0\DelegatesPingPong.genruntimeconfig.cache

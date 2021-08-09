@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Ploy\bin\Debug\net5.0\Ploy.exe
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Ploy\bin\Debug\net5.0\Ploy.deps.json
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Ploy\bin\Debug\net5.0\Ploy.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Ploy\bin\Debug\net5.0\Ploy.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Ploy\bin\Debug\net5.0\Ploy.dll
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Ploy\bin\Debug\net5.0\ref\Ploy.dll
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Ploy\bin\Debug\net5.0\Ploy.pdb
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Ploy\obj\Debug\net5.0\Ploy.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Ploy\obj\Debug\net5.0\Ploy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Ploy\obj\Debug\net5.0\Ploy.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Ploy\obj\Debug\net5.0\Ploy.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Ploy\obj\Debug\net5.0\Ploy.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Ploy\obj\Debug\net5.0\Ploy.dll
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Ploy\obj\Debug\net5.0\ref\Ploy.dll
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Ploy\obj\Debug\net5.0\Ploy.pdb
+C:\Users\ADMIN\Desktop\Practice\CSharpPractice\Ploy\obj\Debug\net5.0\Ploy.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Desktop\Practice\PrivateMembers\PrivateMembers\bin\Debug\netcoreapp3.1\PrivateMembers.exe
+C:\Users\ADMIN\Desktop\Practice\PrivateMembers\PrivateMembers\bin\Debug\netcoreapp3.1\PrivateMembers.deps.json
+C:\Users\ADMIN\Desktop\Practice\PrivateMembers\PrivateMembers\bin\Debug\netcoreapp3.1\PrivateMembers.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Practice\PrivateMembers\PrivateMembers\bin\Debug\netcoreapp3.1\PrivateMembers.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Practice\PrivateMembers\PrivateMembers\bin\Debug\netcoreapp3.1\PrivateMembers.dll
+C:\Users\ADMIN\Desktop\Practice\PrivateMembers\PrivateMembers\bin\Debug\netcoreapp3.1\PrivateMembers.pdb
+C:\Users\ADMIN\Desktop\Practice\PrivateMembers\PrivateMembers\obj\Debug\netcoreapp3.1\PrivateMembers.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Practice\PrivateMembers\PrivateMembers\obj\Debug\netcoreapp3.1\PrivateMembers.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Practice\PrivateMembers\PrivateMembers\obj\Debug\netcoreapp3.1\PrivateMembers.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Practice\PrivateMembers\PrivateMembers\obj\Debug\netcoreapp3.1\PrivateMembers.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Practice\PrivateMembers\PrivateMembers\obj\Debug\netcoreapp3.1\PrivateMembers.dll
+C:\Users\ADMIN\Desktop\Practice\PrivateMembers\PrivateMembers\obj\Debug\netcoreapp3.1\PrivateMembers.pdb
+C:\Users\ADMIN\Desktop\Practice\PrivateMembers\PrivateMembers\obj\Debug\netcoreapp3.1\PrivateMembers.genruntimeconfig.cache

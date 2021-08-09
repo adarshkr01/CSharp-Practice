@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\Practice\PracticeApp\PracticeApp\bin\Debug\net5.0\PracticeApp.exe
+C:\Users\ADMIN\Desktop\Practice\PracticeApp\PracticeApp\bin\Debug\net5.0\PracticeApp.deps.json
+C:\Users\ADMIN\Desktop\Practice\PracticeApp\PracticeApp\bin\Debug\net5.0\PracticeApp.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Practice\PracticeApp\PracticeApp\bin\Debug\net5.0\PracticeApp.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Practice\PracticeApp\PracticeApp\bin\Debug\net5.0\PracticeApp.dll
+C:\Users\ADMIN\Desktop\Practice\PracticeApp\PracticeApp\bin\Debug\net5.0\ref\PracticeApp.dll
+C:\Users\ADMIN\Desktop\Practice\PracticeApp\PracticeApp\bin\Debug\net5.0\PracticeApp.pdb
+C:\Users\ADMIN\Desktop\Practice\PracticeApp\PracticeApp\obj\Debug\net5.0\PracticeApp.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Practice\PracticeApp\PracticeApp\obj\Debug\net5.0\PracticeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Practice\PracticeApp\PracticeApp\obj\Debug\net5.0\PracticeApp.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Practice\PracticeApp\PracticeApp\obj\Debug\net5.0\PracticeApp.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Practice\PracticeApp\PracticeApp\obj\Debug\net5.0\PracticeApp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Practice\PracticeApp\PracticeApp\obj\Debug\net5.0\PracticeApp.dll
+C:\Users\ADMIN\Desktop\Practice\PracticeApp\PracticeApp\obj\Debug\net5.0\ref\PracticeApp.dll
+C:\Users\ADMIN\Desktop\Practice\PracticeApp\PracticeApp\obj\Debug\net5.0\PracticeApp.pdb
+C:\Users\ADMIN\Desktop\Practice\PracticeApp\PracticeApp\obj\Debug\net5.0\PracticeApp.genruntimeconfig.cache

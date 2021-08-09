@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\Practice\SingletonClasses\SingletonClasses\bin\Debug\net5.0\SingletonClasses.exe
+C:\Users\ADMIN\Desktop\Practice\SingletonClasses\SingletonClasses\bin\Debug\net5.0\SingletonClasses.deps.json
+C:\Users\ADMIN\Desktop\Practice\SingletonClasses\SingletonClasses\bin\Debug\net5.0\SingletonClasses.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Practice\SingletonClasses\SingletonClasses\bin\Debug\net5.0\SingletonClasses.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Practice\SingletonClasses\SingletonClasses\bin\Debug\net5.0\SingletonClasses.dll
+C:\Users\ADMIN\Desktop\Practice\SingletonClasses\SingletonClasses\bin\Debug\net5.0\ref\SingletonClasses.dll
+C:\Users\ADMIN\Desktop\Practice\SingletonClasses\SingletonClasses\bin\Debug\net5.0\SingletonClasses.pdb
+C:\Users\ADMIN\Desktop\Practice\SingletonClasses\SingletonClasses\obj\Debug\net5.0\SingletonClasses.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Practice\SingletonClasses\SingletonClasses\obj\Debug\net5.0\SingletonClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Practice\SingletonClasses\SingletonClasses\obj\Debug\net5.0\SingletonClasses.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Practice\SingletonClasses\SingletonClasses\obj\Debug\net5.0\SingletonClasses.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Practice\SingletonClasses\SingletonClasses\obj\Debug\net5.0\SingletonClasses.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Practice\SingletonClasses\SingletonClasses\obj\Debug\net5.0\SingletonClasses.dll
+C:\Users\ADMIN\Desktop\Practice\SingletonClasses\SingletonClasses\obj\Debug\net5.0\ref\SingletonClasses.dll
+C:\Users\ADMIN\Desktop\Practice\SingletonClasses\SingletonClasses\obj\Debug\net5.0\SingletonClasses.pdb
+C:\Users\ADMIN\Desktop\Practice\SingletonClasses\SingletonClasses\obj\Debug\net5.0\SingletonClasses.genruntimeconfig.cache

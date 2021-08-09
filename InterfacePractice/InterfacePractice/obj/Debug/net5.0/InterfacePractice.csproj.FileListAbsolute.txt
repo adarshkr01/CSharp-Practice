@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\InterfacePractice\bin\Debug\net5.0\InterfacePractice.exe
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\InterfacePractice\bin\Debug\net5.0\InterfacePractice.deps.json
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\InterfacePractice\bin\Debug\net5.0\InterfacePractice.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\InterfacePractice\bin\Debug\net5.0\InterfacePractice.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\InterfacePractice\bin\Debug\net5.0\InterfacePractice.dll
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\InterfacePractice\bin\Debug\net5.0\ref\InterfacePractice.dll
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\InterfacePractice\bin\Debug\net5.0\InterfacePractice.pdb
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\InterfacePractice\obj\Debug\net5.0\InterfacePractice.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\InterfacePractice\obj\Debug\net5.0\InterfacePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\InterfacePractice\obj\Debug\net5.0\InterfacePractice.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\InterfacePractice\obj\Debug\net5.0\InterfacePractice.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\InterfacePractice\obj\Debug\net5.0\InterfacePractice.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\InterfacePractice\obj\Debug\net5.0\InterfacePractice.dll
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\InterfacePractice\obj\Debug\net5.0\ref\InterfacePractice.dll
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\InterfacePractice\obj\Debug\net5.0\InterfacePractice.pdb
+C:\Users\ADMIN\Desktop\Practice\InterfacePractice\InterfacePractice\obj\Debug\net5.0\InterfacePractice.genruntimeconfig.cache

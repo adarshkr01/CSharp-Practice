@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesNull\bin\Debug\net5.0\DelegatesNull.exe
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesNull\bin\Debug\net5.0\DelegatesNull.deps.json
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesNull\bin\Debug\net5.0\DelegatesNull.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesNull\bin\Debug\net5.0\DelegatesNull.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesNull\bin\Debug\net5.0\DelegatesNull.dll
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesNull\bin\Debug\net5.0\ref\DelegatesNull.dll
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesNull\bin\Debug\net5.0\DelegatesNull.pdb
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesNull\obj\Debug\net5.0\DelegatesNull.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesNull\obj\Debug\net5.0\DelegatesNull.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesNull\obj\Debug\net5.0\DelegatesNull.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesNull\obj\Debug\net5.0\DelegatesNull.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesNull\obj\Debug\net5.0\DelegatesNull.dll
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesNull\obj\Debug\net5.0\ref\DelegatesNull.dll
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesNull\obj\Debug\net5.0\DelegatesNull.pdb
+C:\Users\ADMIN\Desktop\Practice\AsyncAwait\DelegatesNull\obj\Debug\net5.0\DelegatesNull.genruntimeconfig.cache

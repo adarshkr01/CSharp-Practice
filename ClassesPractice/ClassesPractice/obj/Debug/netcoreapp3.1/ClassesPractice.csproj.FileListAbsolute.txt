@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Desktop\Practice\ClassesPractice\ClassesPractice\bin\Debug\netcoreapp3.1\ClassesPractice.exe
+C:\Users\ADMIN\Desktop\Practice\ClassesPractice\ClassesPractice\bin\Debug\netcoreapp3.1\ClassesPractice.deps.json
+C:\Users\ADMIN\Desktop\Practice\ClassesPractice\ClassesPractice\bin\Debug\netcoreapp3.1\ClassesPractice.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Practice\ClassesPractice\ClassesPractice\bin\Debug\netcoreapp3.1\ClassesPractice.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Practice\ClassesPractice\ClassesPractice\bin\Debug\netcoreapp3.1\ClassesPractice.dll
+C:\Users\ADMIN\Desktop\Practice\ClassesPractice\ClassesPractice\bin\Debug\netcoreapp3.1\ClassesPractice.pdb
+C:\Users\ADMIN\Desktop\Practice\ClassesPractice\ClassesPractice\obj\Debug\netcoreapp3.1\ClassesPractice.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Practice\ClassesPractice\ClassesPractice\obj\Debug\netcoreapp3.1\ClassesPractice.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Practice\ClassesPractice\ClassesPractice\obj\Debug\netcoreapp3.1\ClassesPractice.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Practice\ClassesPractice\ClassesPractice\obj\Debug\netcoreapp3.1\ClassesPractice.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Practice\ClassesPractice\ClassesPractice\obj\Debug\netcoreapp3.1\ClassesPractice.dll
+C:\Users\ADMIN\Desktop\Practice\ClassesPractice\ClassesPractice\obj\Debug\netcoreapp3.1\ClassesPractice.pdb
+C:\Users\ADMIN\Desktop\Practice\ClassesPractice\ClassesPractice\obj\Debug\netcoreapp3.1\ClassesPractice.genruntimeconfig.cache
