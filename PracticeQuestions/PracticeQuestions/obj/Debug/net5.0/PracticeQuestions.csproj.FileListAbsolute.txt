@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\Practice\PracticeQuestions\PracticeQuestions\obj\Debug\net5.0\PracticeQuestions.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Practice\PracticeQuestions\PracticeQuestions\obj\Debug\net5.0\PracticeQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Practice\PracticeQuestions\PracticeQuestions\obj\Debug\net5.0\PracticeQuestions.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Practice\PracticeQuestions\PracticeQuestions\obj\Debug\net5.0\PracticeQuestions.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Practice\PracticeQuestions\PracticeQuestions\obj\Debug\net5.0\PracticeQuestions.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Practice\PracticeQuestions\PracticeQuestions\bin\Debug\net5.0\PracticeQuestions.exe
+C:\Users\ADMIN\Desktop\Practice\PracticeQuestions\PracticeQuestions\bin\Debug\net5.0\PracticeQuestions.deps.json
+C:\Users\ADMIN\Desktop\Practice\PracticeQuestions\PracticeQuestions\bin\Debug\net5.0\PracticeQuestions.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Practice\PracticeQuestions\PracticeQuestions\bin\Debug\net5.0\PracticeQuestions.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Practice\PracticeQuestions\PracticeQuestions\bin\Debug\net5.0\PracticeQuestions.dll
+C:\Users\ADMIN\Desktop\Practice\PracticeQuestions\PracticeQuestions\bin\Debug\net5.0\ref\PracticeQuestions.dll
+C:\Users\ADMIN\Desktop\Practice\PracticeQuestions\PracticeQuestions\bin\Debug\net5.0\PracticeQuestions.pdb
+C:\Users\ADMIN\Desktop\Practice\PracticeQuestions\PracticeQuestions\obj\Debug\net5.0\PracticeQuestions.dll
+C:\Users\ADMIN\Desktop\Practice\PracticeQuestions\PracticeQuestions\obj\Debug\net5.0\ref\PracticeQuestions.dll
+C:\Users\ADMIN\Desktop\Practice\PracticeQuestions\PracticeQuestions\obj\Debug\net5.0\PracticeQuestions.pdb
+C:\Users\ADMIN\Desktop\Practice\PracticeQuestions\PracticeQuestions\obj\Debug\net5.0\PracticeQuestions.genruntimeconfig.cache
